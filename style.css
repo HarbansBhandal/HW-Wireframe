@@ -1,10 +1,90 @@
-h1{		background-color: white;
-		content: #ebebeb;	
-		text-align: center;
-		margin: 10px;
-}
-
 body{	background-color: #777;
 		content: #ebebeb;
 		width: 960px;
+		align-content: center;
+		margin: 0 auto 0 auto;
+		text-align: center;
+		font-size: 18px;
+		font-family: Arial;
 	}
+
+.first{	background-color: white;
+		margin: 10px;
+		height: 50px;
+		padding-top: 40px;
+		padding-bottom: 10px;
+		padding-left: 10px;
+		padding-right: 10px;
+		}
+
+nav{	background-color: white;
+		text-align: center;
+		margin: 10px;
+		height: 50px;
+		padding-top: 40px;
+		padding-bottom: 10px;
+		padding-left: 10px;
+		padding-right: 10px;
+
+}		
+section{ 	background-color: white;
+			text-align: center;
+			margin: 12px;
+			float: left;
+			width: 495px;
+			position: relative;
+			height: 225px;
+			padding: 10px;
+}
+
+article{	text-align: center;
+			background-color: #777;
+			height: 195px;
+			position: absolute;
+			margin: 10px;
+			width: 480px;
+			
+}			
+
+div{		background-color: white;
+			width: 400px;
+			height 50px;}
+
+.second {	display: inline;
+			}
+
+.third {	display: inline;
+			
+}
+.fourth{	display: inline;
+			
+}
+
+p{			background-color: white;
+			width: 300px;
+			height: 100px;
+			position: absolute;
+}
+aside{		clear: both;
+			background-color: white;
+			width: 420px;
+			float:right;
+			height: 225px;
+			margin-top: 12px;
+			display: inline;
+			padding-top: 20px;
+			
+}
+
+
+footer{	clear: both;
+		background-color: white;
+		text-align: center;
+		margin: 10px;
+		height: 50px;
+		padding-top: 40px;
+		padding-bottom: 10px;
+		padding-left: 10px;
+		padding-right: 10px;}
+
+}
